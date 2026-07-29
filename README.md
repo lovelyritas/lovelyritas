@@ -1,6 +1,5 @@
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![](https://komarev.com/ghpvc/?username=lovelyritas&label=visits&color=9dc37f)
-<p align="right">
-  <a href="https://github.com/kittinan/spotify-github-profile">
+ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uc7aztg6mmemgzf7e6bnzl6lxi&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
